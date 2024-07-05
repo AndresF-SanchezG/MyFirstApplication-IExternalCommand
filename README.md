@@ -7,3 +7,5 @@ In this exercise we will use IExternalCommnad, which is an integral part of the 
 These commands can be anything, from automating repetitive task to creating new tools that enhance Revit´s functionality.
 
 ## Target
+
+The title of the dialog box will be "App with Revit and C#" and its message will be "Mi primera APP con Revit y C#"
