@@ -8,5 +8,5 @@ These commands can be anything, from automating repetitive task to creating new 
 
 ## Target
 
-The objective of this exercise is to create a custom command in Revit that displays a dialog box with a custom message". 
+The objective of this exercise is to create a custom command in Revit that displays a dialog box with a custom message. 
 The title of the dialog box will be "App with Revit and C#" and its message will be "Mi primera APP con Revit y C#"
