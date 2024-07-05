@@ -13,4 +13,4 @@ The title of the dialog box will be "App with Revit and C#" and its message will
 
 ## Solution
 
-Revit and applications developed in C3 communicate through .addin files.
+Revit and applications developed in C# communicate through .addin files.
