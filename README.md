@@ -25,3 +25,5 @@ To write the application code, we will use the .NET FRAMEWORK 4.8 development en
 
 ## STEP 1 - Set up work template
 
+Through of the editor code VISUAL STUDIO CODE we choose the framework 4.8 to use and select a class library template. This template will allow us to access the revit libraries.
+
