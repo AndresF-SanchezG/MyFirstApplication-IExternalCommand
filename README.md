@@ -15,3 +15,4 @@ The title of the dialog box will be "App with Revit and C#" and its message will
 
 Revit and applications developed in C# communicate through .addin files.
 The .addin files are used to register and configure plugins in Revit. These files are essential to Revit recognize, loand and execute custom commands or applications developed in languages such as C#.
+The .addin files inform revit about the existence of plugins and where find the .dll files that contain them.
