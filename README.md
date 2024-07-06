@@ -18,3 +18,6 @@ The .addin files are used to register and configure plugins in Revit. These file
 The .addin files inform revit about the existence of plugins and where find the .dll files that contain them.
 
 DLL(Dynamic Link Library) are dynamic linking libraries that contain code, data and resources that can be used by multiple programs simultaneously. Instead of embedding all necessary code to perform task with the main executable file (EXE), commom functions are grouped into a DLL file, which is loaded when a program needs to use its functions.
+
+![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/b5cb7679-dba5-4dd6-8493-bb6023cb8c87)
+
