@@ -23,3 +23,5 @@ DLL(Dynamic Link Library) are dynamic linking libraries that contain code, data 
 
 To write the application code, we will use the .NET FRAMEWORK 4.8 development environment, which is the framework used to build the Revit API. This framawork uses languages like C# and VB.NET to interact with Revit.
 
+## STEP 1 - Set up work template
+
