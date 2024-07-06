@@ -27,3 +27,6 @@ To write the application code, we will use the .NET FRAMEWORK 4.8 development en
 
 Through of the editor code VISUAL STUDIO CODE we choose the framework 4.8 to use and select a class library template. This template will allow us to access the revit libraries.
 
+![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/c500500a-88ed-4bcf-aea4-b72e05c93f1c)
+
+
