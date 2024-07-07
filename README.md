@@ -47,6 +47,10 @@ In this template we find:
 
   ## STEP 2 - Add Revit references
 
+  To add the references that allow us connect with the Revit API files, we must:
+
+    
+
 
 
 
