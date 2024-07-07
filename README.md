@@ -35,5 +35,7 @@ In this template we find:
 
   ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/7154ac33-4b18-4198-a7ac-a5cb0799f65e)
 
+  Namespace: The namespace is used to organize and group related classes. In this case RevitAPP can contain all classes and types related to the application.
+
 
 
