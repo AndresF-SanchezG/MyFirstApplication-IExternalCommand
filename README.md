@@ -37,5 +37,7 @@ In this template we find:
 
   Namespace: The namespace is used to organize and group related classes. In this case RevitAPP can contain all classes and types related to the application.
 
+  The class clas1: Is a starting point to defining the specific functionality that you want to add to your Revit application. You can add methods, properties, and others members to this class as needed to develop your application.
+
 
 
