@@ -49,9 +49,10 @@ In this template we find:
 
   To add the references that allow us connect with the Revit API files, we must:
 
-    Right Click on referencias and select agregar referencia.
+    Right Click on Referencias and select Agregar referencia.
 
-    ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/99c0237a-be5f-400e-88aa-8cb86105008a)
+   ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/05a8a1c5-4548-40cc-a864-8c24cdfe16ff)
+
 
     
  
