@@ -31,23 +31,28 @@ Through of the editor code VISUAL STUDIO CODE we choose the framework 4.8 to use
 
 In this template we find:
 
-  Default References: These are essential elements in application development, as they allow the project to use code and resources that are not within it.
+  **Default References:** These are essential elements in application development, as they allow the project to use code and resources that are not within it.
 
   ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/7154ac33-4b18-4198-a7ac-a5cb0799f65e)
 
   **Namespace:** The namespace is used to organize and group related classes. In this case RevitAPP can contain all classes and types related to the application.
 
-  The class class1: Is a starting point to defining the specific functionality that you want to add to your Revit application. You can add methods, properties, and others members to this class as needed to develop your application.
+  **The class class1:** Is a starting point to defining the specific functionality that you want to add to your Revit application. You can add methods, properties, and others members to this class as needed to develop your application.
 
   ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/2a50ad86-b97a-4187-b141-a8d5295f6799)
 
-  Solution Explorer: The explorer solution is a window within Visual Studio Code that allow you to view and manage the files´s and resources´s project of your solution in a structured manner.
+  **Solution Explorer:** The explorer solution is a window within Visual Studio Code that allow you to view and manage the files´s and resources´s project of your solution in a structured manner.
 
   ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/2272a4b7-c21c-4ed0-a23e-82bcbc8eedfe)
 
   ## STEP 2 - Add Revit references
 
   To add the references that allow us connect with the Revit API files, we must:
+
+    * Right Click on referencias and select agregar referencia.
+    
+    ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/5c0f3694-2b13-4e55-9c18-e5a6b7403bff)
+
 
     
 
