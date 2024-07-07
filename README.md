@@ -33,4 +33,7 @@ In this template we find:
 
   Default References: These are essential elements in application development, as they allow the project to use code and resources that are not within it.
 
+  ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/7154ac33-4b18-4198-a7ac-a5cb0799f65e)
+
+
 
