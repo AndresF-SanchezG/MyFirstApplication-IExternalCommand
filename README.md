@@ -29,4 +29,8 @@ Through of the editor code VISUAL STUDIO CODE we choose the framework 4.8 to use
 
 ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/c500500a-88ed-4bcf-aea4-b72e05c93f1c)
 
+In this template we find:
+
+  Default References: These are essential elements in application development, as they allow the project to use code and resources that are not within it.
+
 
