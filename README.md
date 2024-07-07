@@ -41,6 +41,11 @@ In this template we find:
 
   ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/2a50ad86-b97a-4187-b141-a8d5295f6799)
 
+  Solution Explorer: The explorer solution is a window within Visual Studio Code that allow you to view and manage the files´s and resources´s project of your solution in a structured manner.
+
+  ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/2272a4b7-c21c-4ed0-a23e-82bcbc8eedfe)
+
+
 
 
 
