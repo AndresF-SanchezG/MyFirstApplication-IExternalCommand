@@ -45,6 +45,8 @@ In this template we find:
 
   ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/2272a4b7-c21c-4ed0-a23e-82bcbc8eedfe)
 
+  ## STEP 2 - Add Revit references
+
 
 
 
