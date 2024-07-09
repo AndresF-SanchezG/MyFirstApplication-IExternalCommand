@@ -64,6 +64,19 @@ In this template we find:
      ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/7731dd67-77fc-4468-88b4-429e7cf62f20)
      ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/fa183e5a-76b1-47e3-8e47-952f555de233)
 
+      ## STEP 2 - Link to the references of the class libraries that will be used.
+
+     we link the following references: **using Autodesk.Revit.DB** and **using Autodesk.Revit.UI**
+
+     - The word using is a reserved word that is required to link references.
+       
+     - Autodesk.Revit.DB: It´s a namespace in the RevitAPI that contains several classes related to the Revit model database. It´s not a class itself, else a container of classes.
+
+       Some of the most important classes with Autodesk.Revit.DB include:
+     
+
+     
+
 
 
 
