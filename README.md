@@ -70,7 +70,7 @@ In this template we find:
 
      - The word **using** is a reserved word that is required to link references.
        
-     - Autodesk.Revit.DB: It´s a namespace in the RevitAPI that contains several classes related to the Revit model database. It´s not a class itself, else a container of classes.
+     - **Autodesk.Revit.DB:** It´s a namespace in the RevitAPI that contains several classes related to the Revit model database. It´s not a class itself, else a container of classes.
 
        Some of the most important classes with Autodesk.Revit.DB include:
 
@@ -84,9 +84,7 @@ In this template we find:
           
         - Filter: Contains classes used for filtering elements in the document.
       
-       
-      
-     - Autodesk.Revit.UI: This namespace is essential for developers that create custom tools, plugins, or applications that interact directly with the Revit user interface, enabling   
+     - **Autodesk.Revit.UI:** This namespace is essential for developers that create custom tools, plugins, or applications that interact directly with the Revit user interface, enabling   
       deeper integration and a enhanced user experience.
     
        Some of the most important classes with Autodesk.Revit.UI include:
@@ -99,20 +97,17 @@ In this template we find:
 
         - Events: Events and handlers related to user interaction, such tas elements selection, view changes, etc.
 
-     - Autodesk.Revit.Attributes: It's another namespace within the Revit API. This namespace contains attributes used to mark and configure specific behaviors of classes and methods within the Revit API. Attributes in this namespace are important for customizing and configuring how different components interact and behave within a Revit application or plugin..
+     - **Autodesk.Revit.Attributes:** It's another namespace within the Revit API. This namespace contains attributes used to mark and configure specific behaviors of classes and methods within the Revit API. Attributes in this namespace are important for customizing and configuring how different components interact and behave within a Revit application or plugin..
     
-     
-     
+       Some of the most important attributes with Autodesk.Revit.Attributes include:
 
- Some of the most important attributes with Autodesk.Revit.Attributes include:
+        - TransactionAttribute: Allows specifying properties of a transaction, such as its name and execution mode.
 
-       - TransactionAttribute: Allows specifying properties of a transaction, such as its name and execution mode.
+        - RegenerationAttribute: Controls how graphics and visual representation are regenerated after making changes in the Revit model.
 
-       - RegenerationAttribute: Controls how graphics and visual representation are regenerated after making changes in the Revit model.
+        - Ribbon: Classes and methods for adding tabs, panels and custom controls to the Revit Ribbon interface.
 
-       - Ribbon: Classes and methods for adding tabs, panels and custom controls to the Revit Ribbon interface.
-
-       - TransactionModeAttribute: Defines the transaction mode for a specific operation, such as automatic or manual.
+        - TransactionModeAttribute: Defines the transaction mode for a specific operation, such as automatic or manual.
 
 
 
