@@ -98,16 +98,7 @@ In this template we find:
 
      - Autodesk.Revit.Attributes: It's another namespace within the Revit API. This namespace contains attributes used to mark and configure specific behaviors of classes and methods within the Revit API. Attributes in this namespace are important for customizing and configuring how different components interact and behave within a Revit application or plugin..
     
-      Some of the most important attributes with Autodesk.Revit.Attributes include:
-
-       - TransactionAttribute: Allows specifying properties of a transaction, such as its name and execution mode.
-
-       - RegenerationAttribute: Controls how graphics and visual representation are regenerated after making changes in the Revit model.
-
-       - Ribbon: Classes and methods for adding tabs, panels and custom controls to the Revit Ribbon interface.
-
-       - TransactionModeAttribute: Defines the transaction mode for a specific operation, such as automatic or manual.
-
+     
      
 
 
