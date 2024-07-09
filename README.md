@@ -86,18 +86,18 @@ In this template we find:
       
        
       
-    - Autodesk.Revit.UI: This namespace is essential for developers that create custom tools, plugins, or applications that interact directly with the Revit user interface, enabling   
+     - Autodesk.Revit.UI: This namespace is essential for developers that create custom tools, plugins, or applications that interact directly with the Revit user interface, enabling   
       deeper integration and a enhanced user experience.
     
-      Some of the most important classes with Autodesk.Revit.UI include:
+       Some of the most important classes with Autodesk.Revit.UI include:
 
-       - External Commands: Classes to define external commands that can be executed from the Revit interface.
+        - External Commands: Classes to define external commands that can be executed from the Revit interface.
 
-       - Dialogs: Methods and classes for display custom dialog boxes in the Revit interface.
+        - Dialogs: Methods and classes for display custom dialog boxes in the Revit interface.
 
-       - Ribbon: Classes and methods for adding tabs, panels and custom controls to the Revit Ribbon interface.
+        - Ribbon: Classes and methods for adding tabs, panels and custom controls to the Revit Ribbon interface.
 
-       - Events: Events and handlers related to user interaction, such tas elements selection, view changes, etc.
+        - Events: Events and handlers related to user interaction, such tas elements selection, view changes, etc.
 
      - Autodesk.Revit.Attributes: It's another namespace within the Revit API. This namespace contains attributes used to mark and configure specific behaviors of classes and methods within the Revit API. Attributes in this namespace are important for customizing and configuring how different components interact and behave within a Revit application or plugin..
     
