@@ -68,7 +68,7 @@ In this template we find:
 
      we link the following references: **using Autodesk.Revit.DB** and **using Autodesk.Revit.UI**
 
-     - The word **using** is a reserved word that is required to link references.
+     - The word **using** is a reserved word that is required to link references. When using the using statement, you can access the classes, methods, and other types defined within the namespace Autodesk.Revit.DB without having to write the full namespace name every time. For example, instead of writing Autodesk.Revit.DB.Wall, you can simply write Wall.
        
      - **Autodesk.Revit.DB:** It´s a namespace in the RevitAPI that contains several classes related to the Revit model database. It´s not a class itself, else a container of classes.
 
