@@ -101,6 +101,15 @@ In this template we find:
      
      
 
+ Some of the most important attributes with Autodesk.Revit.Attributes include:
+
+       - TransactionAttribute: Allows specifying properties of a transaction, such as its name and execution mode.
+
+       - RegenerationAttribute: Controls how graphics and visual representation are regenerated after making changes in the Revit model.
+
+       - Ribbon: Classes and methods for adding tabs, panels and custom controls to the Revit Ribbon interface.
+
+       - TransactionModeAttribute: Defines the transaction mode for a specific operation, such as automatic or manual.
 
 
 
