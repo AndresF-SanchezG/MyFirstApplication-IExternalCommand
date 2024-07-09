@@ -85,6 +85,18 @@ In this template we find:
         - Filter: Contains classes used for filtering elements in the document.
       
     - Autodesk.Revit.UI: This namespace is essential for developers that create custom tools, plugins, or applications that interact directly with the Revit user interface, enabling deeper integration and a enhanced user experience.
+
+    Some of the most important classes with Autodesk.Revit.DB include:
+
+        - Document: Represents a Revit document, which is essentially a project model.
+          
+        - Element: Is the base class for all documents that can exist in a Revit document.
+          
+        - Wall: Represents a wall in a Revit model.
+          
+        - Transaction: Represent a trasaction for making changes to the Revit document.
+          
+        - Filter: Contains classes used for filtering elements in the document.
     
       Some of the most important classes with Autodesk.Revit.UI include:
 
