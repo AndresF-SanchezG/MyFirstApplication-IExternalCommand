@@ -64,9 +64,11 @@ In this template we find:
      ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/7731dd67-77fc-4468-88b4-429e7cf62f20)
      ![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/fa183e5a-76b1-47e3-8e47-952f555de233)
 
-      ## STEP 2 - Link to the references of the class libraries that will be used.
+      ## STEP 3 - Link to the references of the class libraries that will be used.
 
      we link the following references: **using Autodesk.Revit.DB** and **using Autodesk.Revit.UI**
+
+![image](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand/assets/113924667/1042a553-2121-41f5-848a-4de097fe5e86)
 
      - The word **using** is a reserved word that is required to link references. When using the using statement, you can access the classes, methods, and other types defined within the namespace Autodesk.Revit.DB without having to write the full namespace name every time. For example, instead of writing Autodesk.Revit.DB.Wall, you can simply write Wall.
        
