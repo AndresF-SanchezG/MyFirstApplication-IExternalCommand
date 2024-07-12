@@ -114,6 +114,11 @@ In this template we find:
 
       ## STEP 4 - Implement the IExternalCommand interface
 
+     To implement the interface, we place a colon next to class and the name of the interface, then we call the methods required by the interface, in this case, the execute method that return a value of type Result.
+
+     ![image](https://github.com/user-attachments/assets/9081308d-5eb0-4027-8323-0e6bbe50244a)
+
+
 
 
 
