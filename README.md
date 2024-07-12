@@ -124,6 +124,8 @@ In this template we find:
 
      ![image](https://github.com/user-attachments/assets/9a5a9b1a-229a-43eb-a5f2-65e8a598bbe2)
 
+     **Namespace:** Defines a namespace called RevitAPP. The namespaces are used to organize code and avoid conflicts between classes from different libraries.
+
 
 
 
