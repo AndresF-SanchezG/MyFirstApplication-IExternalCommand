@@ -112,7 +112,7 @@ In this template we find:
         - TransactionModeAttribute: Defines the transaction mode for a specific operation, such as automatic or manual.
 
 
-  ## STEP 4 - Implement the IExternalCommand interface
+      ## STEP 4 - Implement the IExternalCommand interface
 
 
 
