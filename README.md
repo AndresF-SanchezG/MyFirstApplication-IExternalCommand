@@ -126,7 +126,9 @@ In this template we find:
 
      **Namespace:** Defines a namespace called RevitAPP. The namespaces are used to organize code and avoid conflicts between classes from different libraries.
 
-     **public class Class1 : IExternalCommand** Declares a public class called Class1 to implements the IExternalcommand interface. This interface is part of the Revit API and is used to define external commands that can be executed within Revit. 
+     **public class Class1 : IExternalCommand** Declares a public class called Class1 to implements the IExternalcommand interface. This interface is part of the Revit API and is used to define external commands that can be executed within Revit.
+
+     **Result Execute:** Defines the Execute method, which is required by the IExternalCommand interface. This method is executed when the external command is invoked in Revit.
 
      
 
