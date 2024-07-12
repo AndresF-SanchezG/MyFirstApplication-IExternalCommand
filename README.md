@@ -119,7 +119,8 @@ In this template we find:
      ![image](https://github.com/user-attachments/assets/9081308d-5eb0-4027-8323-0e6bbe50244a)
 
      ## STEP 5 - Write Code
-This code defines a simple command external for revit that, when executed, displays a dialog box with a message and return a result indicating that the command was successfully executed.
+     
+     This code defines a simple command external for revit that, when executed, displays a dialog box with a message and return a result indicating that the command was successfully executed.
 
      ![image](https://github.com/user-attachments/assets/9a5a9b1a-229a-43eb-a5f2-65e8a598bbe2)
 
