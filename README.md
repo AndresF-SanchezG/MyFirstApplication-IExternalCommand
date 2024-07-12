@@ -128,7 +128,22 @@ In this template we find:
 
      **public class Class1 : IExternalCommand** Declares a public class called Class1 to implements the IExternalcommand interface. This interface is part of the Revit API and is used to define external commands that can be executed within Revit.
 
-     **Result Execute:** Defines the Execute method, which is required by the IExternalCommand interface. This method is executed when the external command is invoked in Revit.
+     **Result Execute:** Defines the Execute method, which is required by the IExternalCommand interface. This method is executed when the external command is invoked in Revit. This method return valor of type Result.
+
+     **ExternalCommandData commandData:** ExternalCommandData commandData: Provides information about the environment in which the command is being executed, such as the current Revit document and the application.
+
+     **ref string message** A reference parameter that can be used to return a message to the user if the command execution fails.
+
+     **ElementSet elements** ElementSet elements: A collection of Revit elements that can be manipulated or referenced during the execution of the command.
+
+     **TaskDialog.Show("Titulo", "Mi primera APP con Revit y C#"):** Displays a task dialog in Revit with the title 'Title' and the message 'My first Revit APP with C#'. TaskDialog is a class in the Revit API used to show message dialogs to the user.
+
+     **return Result.Succeeded** Returns Result.Succeeded, indicating that the command executed successfully. Result is an enumeration in the Revit API that defines possible outcomes of executing an external command (Succeeded, Failed, Cancelled).
+     
+
+     
+
+     
 
      
 
