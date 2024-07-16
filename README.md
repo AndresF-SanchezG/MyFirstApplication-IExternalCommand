@@ -146,6 +146,13 @@ In this template we find:
      In Revit, transactions can be configured with different modes that affect how changes and model regeneration are managed. The two specific modes you mentioned are  'Transaction Manual' and 'Transaction Only,' have distinct purposes and behaviors.
 
      **Transaction Manual:** The manual mode allows the developer explicit control over when to start and finish transactions, as well as when the Revit model should be regenerated. This mode is useful when making multiple changes that should not be regenerated immediately, which can improve performance.
+
+     **Transaction Only** : The 'Transaction Only' mode indicates that the operations performed within this transaction should only be executed if the transaction is successfully completed. This mode ensures that changes are atomic but does not provide control over manual model regeneration.
+
+     In this case, we will use Transaction Manual.
+
+     ![image](https://github.com/user-attachments/assets/6671c00b-dfe9-409c-91cf-d706ca404ef6)
+
      
 
      
