@@ -139,6 +139,8 @@ In this template we find:
      **TaskDialog.Show("Titulo", "Mi primera APP con Revit y C#"):** Displays a task dialog in Revit with the title 'Titulo' and the message 'Mi primera APP con Revit y C#'. TaskDialog is a class in the Revit API used to show message dialogs to the user.
 
      **return Result.Succeeded** Returns Result.Succeeded, indicating that the command executed successfully. Result is an enumeration in the Revit API that defines possible outcomes of executing an external command (Succeeded, Failed, Cancelled).
+
+      ## STEP 5 - Transaction Modes
      
 
      
