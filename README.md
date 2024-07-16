@@ -158,8 +158,17 @@ In this template we find:
      ![image](https://github.com/user-attachments/assets/cdc6fb29-5706-4e31-a1ea-bb085506981e)
 
      ## STEP 6 - Generate .addin file
+     
+     As mentioned earlier, .addin files are used to configure and register plugins in Revit. This file consists of various tags that perform specific actions. Below is a template of tags, but there are many more that can be studied in the Revit API documentation.
 
      ![image](https://github.com/user-attachments/assets/2ed3fd96-7815-456c-b22f-0ae8c0756452)
+
+     In this case, the tags to be used were:
+
+     ![image](https://github.com/user-attachments/assets/b7cad738-ae90-4d80-b159-4aa00b32385d)
+
+
+     
 
 
 
