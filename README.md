@@ -141,6 +141,9 @@ In this template we find:
      **return Result.Succeeded** Returns Result.Succeeded, indicating that the command executed successfully. Result is an enumeration in the Revit API that defines possible outcomes of executing an external command (Succeeded, Failed, Cancelled).
 
       ## STEP 5 - Transaction Modes
+
+     Transactions are Revit´s way of protecting the modifications that we can make within projects. Throught transactions, we can make canges to our Revit file and also revert them.
+     In Revit, transactions can be configured with different modes that affect how changes and model regeneration are managed. The two specific modes you mentioned are  'Transaction Manual' and 'Transaction Only,' have distinct purposes and behaviors.
      
 
      
