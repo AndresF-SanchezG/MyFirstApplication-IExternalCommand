@@ -155,6 +155,9 @@ In this template we find:
 
      Once we have our application code ready, we proceed to compile the solution to generate the DLL file.
 
+     ![image](https://github.com/user-attachments/assets/cdc6fb29-5706-4e31-a1ea-bb085506981e)
+
+
      
 
      
