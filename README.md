@@ -167,6 +167,11 @@ In this template we find:
 
      ![image](https://github.com/user-attachments/assets/b7cad738-ae90-4d80-b159-4aa00b32385d)
 
+     Once we have the tags defined, we change the file extension from .txt to .addin.
+
+     ![image](https://github.com/user-attachments/assets/39f77619-5975-493d-9393-bb777a1cb344)
+
+
 
      
 
