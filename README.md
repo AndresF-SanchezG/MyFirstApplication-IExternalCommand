@@ -144,6 +144,8 @@ In this template we find:
 
      Transactions are Revit´s way of protecting the modifications that we can make within projects. Throught transactions, we can make canges to our Revit file and also revert them.
      In Revit, transactions can be configured with different modes that affect how changes and model regeneration are managed. The two specific modes you mentioned are  'Transaction Manual' and 'Transaction Only,' have distinct purposes and behaviors.
+
+     **Transaction Manual:** The manual mode allows the developer explicit control over when to start and finish transactions, as well as when the Revit model should be regenerated. This mode is useful when making multiple changes that should not be regenerated immediately, which can improve performance.
      
 
      
