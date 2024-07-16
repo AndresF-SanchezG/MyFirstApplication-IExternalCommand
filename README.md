@@ -183,6 +183,25 @@ In this template we find:
 
      ![image](https://github.com/user-attachments/assets/9a3c1e17-4974-4f64-8a7f-3a37cf41d3a3)
 
+     With the above, we will have completed our exercise and proceed to verify our solution in Revit.
+
+     ## STEP 8 - Testing our first app
+     
+     Our application was created using external commands, and this type of solution is displayed in the Revit ribbon under External Tools.
+
+     ![image](https://github.com/user-attachments/assets/9a1c0e37-bde7-4332-9f07-c6efbe99f014)
+
+     When selecting our solution, it should execute and display the message in the dialog box.
+
+     ![image](https://github.com/user-attachments/assets/8c678149-4000-4e58-85d0-d5b953d936b4)
+
+     Our exercise has been successfully completed. 🙂
+
+
+     
+
+
+
 
 
 
