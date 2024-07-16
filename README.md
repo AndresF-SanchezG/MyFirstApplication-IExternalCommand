@@ -157,6 +157,11 @@ In this template we find:
 
      ![image](https://github.com/user-attachments/assets/cdc6fb29-5706-4e31-a1ea-bb085506981e)
 
+     ## STEP 6 - Generate .addin file
+
+     ![image](https://github.com/user-attachments/assets/2ed3fd96-7815-456c-b22f-0ae8c0756452)
+
+
 
      
 
