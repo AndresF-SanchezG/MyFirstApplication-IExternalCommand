@@ -187,7 +187,7 @@ In this template we find:
 
      ## STEP 8 - Testing our first app
      
-     Our application was created using external commands, and this type of solution is displayed in the Revit ribbon under External Tools.
+     Our application was created using external commands, and this type of solution is displayed in the Revit ribbon under **Herramientas Externas**.
 
      ![image](https://github.com/user-attachments/assets/9a1c0e37-bde7-4332-9f07-c6efbe99f014)
 
