@@ -175,9 +175,9 @@ In this template we find:
      
      To link the .dll and .addin files, copy the files to the following paths:
 
-     C:\Users\Andres Sanchez\AppData\Roaming\Autodesk\Revit\Addins\2024
+     - **C:\Users\Andres Sanchez\AppData\Roaming\Autodesk\Revit\Addins\2024**
 
-     C:\ProgramData\Autodesk\Revit\Addins\2024
+     - **C:\ProgramData\Autodesk\Revit\Addins\2024**
 
      ![image](https://github.com/user-attachments/assets/6e7613b1-a2e3-4de1-b223-80594feb9441)
 
